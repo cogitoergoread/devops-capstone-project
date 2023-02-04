@@ -1,5 +1,5 @@
 ---
-name: ícsőstone issue template
+name: Capstone issue template
 about: Capstone issues
 title: ''
 labels: ''
